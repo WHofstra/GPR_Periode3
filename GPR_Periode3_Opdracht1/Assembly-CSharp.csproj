@@ -67,6 +67,8 @@
     <Compile Include="Assets\Scripts\Delegates\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\Delegates\PlayerHealthUI.cs" />
     <Compile Include="Assets\Scripts\Dictionary\Inventory.cs" />
+    <Compile Include="Assets\Scripts\Dictionary\InventoryDisplay.cs" />
+    <Compile Include="Assets\Scripts\Dictionary\ItemPick.cs" />
     <Compile Include="Assets\Scripts\Dictionary\ShootingGun.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>F:/Media College/GPR Projects/Projects/GPR_Periode3_Opdracht1/GPR_Periode3_Opdracht1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
